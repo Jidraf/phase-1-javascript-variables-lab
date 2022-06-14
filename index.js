@@ -1,3 +1,3 @@
-const companyName = 'scuber';
-let mostProfitableNeighborhood = "chelsea";
-let companyCeo = "Susan Smith";
+let mostProfitableNeighborhood = 'Chelsea'
+const companyName = 'Scuber'
+let companyCeo = 'Susan Smith'
